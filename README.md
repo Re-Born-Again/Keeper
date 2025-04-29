@@ -51,14 +51,14 @@ npm install
 ### 4. Run the server
 
 ```bash
-npm start
+npm run dev
 ```
 
 ### 5. Access to-do-list
 
 - Open your browser and visit:
 ``` bash
-http://localhost:3000
+http://localhost:5173
 ```
 
 ## 📚 Available Scripts
