@@ -34,17 +34,32 @@ keeper-app/
 ├── vite.config.js
 └── README.md
 ```
+## 🖥️ Local Setup
 
-
-## 📦 Installation
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Re-Born-Again/keeper.git
-cd keeper-app
+cd keeper
+```
+### 2. Install dependencies
+
+```bash
 npm install
+```
+
+### 4. Run the server
+
+```bash
 npm start
 ```
-Open your browser and go to http://localhost:3000
+
+### 5. Access to-do-list
+
+- Open your browser and visit:
+``` bash
+http://localhost:3000
+```
 
 ## 📚 Available Scripts
  - npm start – Runs the app in development mode
