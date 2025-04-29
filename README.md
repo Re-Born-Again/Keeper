@@ -16,6 +16,7 @@ A simple note-taking app built with React and Material-UI, inspired by Google Ke
 - HTML5/CSS3
 
 ## 📁 Folder Structure
+```bash
 keeper-app/ 
 ├── public/ 
 │    └── styles.css
@@ -29,3 +30,4 @@ keeper-app/
 │  └── index.js
 ├── package.json
 └── README.md
+```
